@@ -49,14 +49,15 @@ namespace Animal_Shelter_Api.Repositories
             }
         }
 
-        public Dog UpdateDog(int id, string name)
+        public bool UpdateDog(int id, string name)
         {
             var dog = _repository.FirstOrDefault(dog => dog.Id == id);
             if (dog != null)
             {
                 dog.Name = name;
+                return true;
             }
-            return dog;
+            return false;
         }
     }
 }

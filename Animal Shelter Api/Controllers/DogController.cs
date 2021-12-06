@@ -38,8 +38,8 @@ namespace Animal_Shelter_Api.Controllers
 
         [HttpPut("{id}")]
         public ActionResult UpdateDog(int id, string name) { 
-            var dog = _repository.UpdateDog(id, name);
-            if (dog == null)
+            var resp = _repository.UpdateDog(id, name);
+            if (!resp)
             {
                 return NotFound();
             }
