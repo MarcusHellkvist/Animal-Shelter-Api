@@ -1,0 +1,27 @@
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\Animal Shelter Api.exe
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\Animal Shelter Api.deps.json
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\Animal Shelter Api.runtimeconfig.json
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\Animal Shelter Api.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\ref\Animal Shelter Api.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\Animal Shelter Api.pdb
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\obj\Debug\net6.0\Animal Shelter Api.csproj.AssemblyReference.cache
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\obj\Debug\net6.0\Animal Shelter Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\obj\Debug\net6.0\Animal Shelter Api.AssemblyInfoInputs.cache
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\obj\Debug\net6.0\Animal Shelter Api.AssemblyInfo.cs
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\obj\Debug\net6.0\Animal Shelter Api.csproj.CoreCompileInputs.cache
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\obj\Debug\net6.0\Animal Shelter Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\obj\Debug\net6.0\Animal Shelter Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\obj\Debug\net6.0\scopedcss\bundle\Animal Shelter Api.styles.css
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\obj\Debug\net6.0\Animal Shelter Api.csproj.CopyComplete
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\obj\Debug\net6.0\Animal Shelter Api.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\obj\Debug\net6.0\ref\Animal Shelter Api.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\obj\Debug\net6.0\Animal Shelter Api.pdb
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\obj\Debug\net6.0\Animal Shelter Api.genruntimeconfig.cache
