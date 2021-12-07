@@ -28,10 +28,10 @@ namespace Animal_Shelter_Api.Repositories
             return _repository.FirstOrDefault(dog => dog.Id == id);
         }
 
-        public void AddDog(string name)
+        public void AddDog(Dog d)
         {
             var id = _repository.Last().Id;
-            var dog = new Dog() { Id = (id + 1), Name = name };
+            var dog = new Dog() { Id = (id + 1), Name = d.Name };
             _repository.Add(dog);
 
         }
@@ -49,15 +49,18 @@ namespace Animal_Shelter_Api.Repositories
             }
         }
 
-        public bool UpdateDog(int id, string name)
+        public bool UpdateDog(int id, Dog d)
         {
             var dog = _repository.FirstOrDefault(dog => dog.Id == id);
             if (dog != null)
             {
-                dog.Name = name;
+                dog.Name = d.Name;
                 return true;
             }
-            return false;
+            else
+            {
+                return false;
+            }
         }
     }
 }

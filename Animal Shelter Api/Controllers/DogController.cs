@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Animal_Shelter_Api.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/dogs")]
     [ApiController]
     public class DogController : ControllerBase
     {
@@ -37,8 +37,8 @@ namespace Animal_Shelter_Api.Controllers
         }
 
         [HttpPut("{id}")]
-        public ActionResult UpdateDog(int id, string name) { 
-            var resp = _repository.UpdateDog(id, name);
+        public ActionResult UpdateDog(int id, Dog d) {
+            var resp = _repository.UpdateDog(id, d);
             if (!resp)
             {
                 return NotFound();
@@ -64,9 +64,9 @@ namespace Animal_Shelter_Api.Controllers
         }
 
         [HttpPost]
-        public ActionResult AddDog(string name)
+        public ActionResult AddDog(Dog d)
         {
-            _repository.AddDog(name);
+            _repository.AddDog(d);
             return Ok("Dog Successfully Created!");
            
         }
