@@ -25,3 +25,45 @@ C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\obj\Debug\net6.
 C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\obj\Debug\net6.0\ref\Animal Shelter Api.dll
 C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\obj\Debug\net6.0\Animal Shelter Api.pdb
 C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\obj\Debug\net6.0\Animal Shelter Api.genruntimeconfig.cache
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maco\source\repos\Animal Shelter Api\Animal Shelter Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
