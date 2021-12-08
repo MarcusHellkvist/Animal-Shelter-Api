@@ -1,6 +1,7 @@
 ﻿using Animal_Shelter_Api.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Caching.Memory;
 
 namespace Animal_Shelter_Api.Repositories
 {
@@ -8,6 +9,7 @@ namespace Animal_Shelter_Api.Repositories
     {
 
         private readonly MyDbContext _context;
+
         public DogRepository(MyDbContext context)
         {
             _context = context;
@@ -29,11 +31,11 @@ namespace Animal_Shelter_Api.Repositories
         public IEnumerable<Dog> GetDogs()
         {
             return _context.Dog.Include(d => d.Owner).ToList();
+            
         }
         public Dog GetDogById(int id)
         {
-            //return _repository.FirstOrDefault(dog => dog.Id == id);
-            return new Dog();
+            return _context.Dog.FirstOrDefault(dog => dog.Id == id);
         }
 
         public void AddDog(Dog d)

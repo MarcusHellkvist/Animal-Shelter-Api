@@ -5,8 +5,13 @@ using System.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
+
 // Add services to the container.
-builder.Services.AddDbContext<MyDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
+var connectionString = "server=localhost;user=root;database=efdemo;password=password";
+var serverVersion = new MySqlServerVersion(new Version(8, 0, 27));
+
+
+builder.Services.AddDbContext<MyDbContext>(options => options.UseMySql(connectionString, serverVersion));
 builder.Services.AddScoped<IDogRepository, DogRepository>();
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
